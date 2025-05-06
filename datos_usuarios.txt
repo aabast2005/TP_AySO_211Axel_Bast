@@ -1,2 +1,5 @@
 model name	: AMD Ryzen 5 9600X 6-Core Processor
 model name	: AMD Ryzen 5 9600X 6-Core Processor
+model name	: AMD Ryzen 5 9600X 6-Core Processor
+model name	: AMD Ryzen 5 9600X 6-Core Processor
+model name	: AMD Ryzen 5 9600X 6-Core Processor
