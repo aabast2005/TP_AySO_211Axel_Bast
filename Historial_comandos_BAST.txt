@@ -1,0 +1,164 @@
+ls
+cd repogit
+ls -l
+cd ..
+exit
+ls
+man man
+cd .ssh
+ls -la
+cd ..
+cat /etc/group
+cat /etc/group |more
+cat README
+vd clase4
+mkidir clas4
+mkidir clase4
+cat >
+cat > archivot.1txt
+archivo.1txt
+cat > archivo.1txt
+cat << FIN >archivo2.txt
+linea4
+linea5
+linea6
+FIN
+
+cd clase4
+cat /etc/group |more~
+vagrant ssh
+apt install vagrant
+exit
+vagrant down
+exit
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:aabast2005/TP_AySO_211Axel_Bast.git
+cd TP_AySO_211Axel_Bast/
+ls -l
+cat /etc/os-release
+grep
+man grep
+-i
+grep -i <parámetro> Home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -l
+cat datos_url.txt
+git status
+git add .
+git status
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+cd repogit
+git clone git@github.com:aabast2005/TP_AySO_211Axel_Bast.git
+cd repogit
+cd TP_AySO_211Axel_Bast
+pws
+pwd
+ls -l
+
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt 
+git add .
+git config --global user.email "aabast2005@gmail.com"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt
+
+
+
+
+exit
+commit
+
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt" 
+git config --global user.name "aabast2005"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+echo “Usuario=$(whoami)” > datos_usuario.txt
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git status
+git push
+git status
+cd repogit
+cd TP_AySO_211Axel_Bast/
+pwd
+ls -l
+cat /etc/os-release
+-i
+grep -i Home_url /etc/os-release 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cd repogit
+cd TP_AySO_211Axel_Bast/\
+cd repogit
+cd TP_AySO_211Axel_Bast/
+grep
+tail -n1
+head -n1
+grep "model name"
+|
+ep "model name" /proc/puinfo | head -n1 >>datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+vas
+cda
+nuunnnssadadacccccrrrrrrrrrrrrrrrrrrrrrrrrrrrepprrrdaaasacdvvvvggggggggnnnnnnnnnnnnnn
+dddddadsasda
+saddasda
+dsa
+da
+s
+cd 
+scn
+nuyuuucdcccceeeooo
+cdasdadasadadddavvvvnnnnnnnnnn
+vvvvvvvrrr edsagggggraannnnnnnn
+cd repogit
+cd TP_AySO_211Axel_Bast/
+git status
+git add datos_usuarios.txt
+git add datos_usuario.txt
+git status
+cd repogit
+cd TP_AySO_211Axel_Bast/
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usua\rios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat datos_usuarios
+cat datos_usuarios.txt
+git commit -m "feat: Añadiendo informacion de CPU" 
+git add datos_usuarios.txt
+git status
+git push
+cat <<EOF >> README.md
+Alumno: Axel
+Division: 211
+Turno: Tarde
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git status
+git push
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+tree ~/materia1 ~/materia2
+snap install tree  # version 2.1.3+pkg-5852
+sudo snap install tree  # version 2.1.3+pkg-5852
+tree ~/materia1 ~/materia2
+cat << 'EOF' > script_dir.sh
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+EOF
+
+chmod +x script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
